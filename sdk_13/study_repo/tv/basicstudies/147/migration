@@ -1,0 +1,20 @@
+{
+  "pkgName" : "tv-basicstudies",
+  "studyMigrations" : [
+    {
+      "rules" : [
+        {
+          "action" : "resetToDefVal",
+          "defVal" : "",
+          "inputId" : "slimit",
+          "inputType" : "slimit",
+          "inputTypeFrom" : "text",
+          "type" : "inputChangedType"
+        }
+      ],
+      "studyId" : "BarSetCC@tv-basicstudies"
+    }
+  ],
+  "versFrom" : "146",
+  "versTo" : "147"
+}
