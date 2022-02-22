@@ -1,0 +1,17 @@
+{
+  "pkgName" : "tv-basicstudies",
+  "studyMigrations" : [
+    {
+      "rules" : [
+        {
+          "action" : "removeVal",
+          "inputId" : "slimit",
+          "type" : "inputRemoved"
+        }
+      ],
+      "studyId" : "BarSetCC@tv-basicstudies"
+    }
+  ],
+  "versFrom" : "147",
+  "versTo" : "148"
+}
